@@ -1,2 +1,2 @@
 # .well-known
-deep linking testing
+deep linking testing android
